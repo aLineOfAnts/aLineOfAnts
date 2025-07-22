@@ -1,5 +1,6 @@
-## Hi there 👋
+#Yello! My alias is Seashell!
 
+I like to make things and adopt new skills!
 <!--
 **ShelbyOnTheSeashells/ShelbyOnTheSeashells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
