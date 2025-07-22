@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there stranger!
 
 The name is Lexi and I like to make things! What gets me excited the most is learning and adopting new skills!
 
