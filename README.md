@@ -6,5 +6,5 @@ As of now I am currently working on
 - Educational Apps
 - HRIS System
 - A Unity Dining Sim
-- - Messaging App Prototype
+- Messaging App Prototype
 - My Portfolio!
