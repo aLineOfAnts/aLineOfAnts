@@ -5,6 +5,6 @@ My name is Lexi and I like to make things! What gets me excited the most is lear
 As of now I am currently working on
 - Educational Apps
 - HRIS System
-- Messaging App Prototype
 - A Unity Dining Sim
+- - Messaging App Prototype
 - My Portfolio!
