@@ -1,6 +1,7 @@
 # Hey there stranger!
 
 My name is Lexi and I like to make things! What gets me excited the most is learning and adopting new skills!
+![alt text](http://url/to/logo.png)
 
 As of now I am currently working on
 - Educational Apps
